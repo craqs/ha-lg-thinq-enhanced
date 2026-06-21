@@ -17,7 +17,7 @@
     "thinqconnect"
   ],
   "requirements": [
-    "thinqconnect==1.0.12"
+    "thinqconnect==1.0.13"
   ],
   "version": "1.0.0"
 }
